@@ -19,10 +19,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `crud_ejemplo`
+-- Base de datos: `crudejemplo`
 --
-DROP DATABASE IF EXISTS crud_ejemplo;
-CREATE DATABASE crud_ejemplo;
+DROP DATABASE IF EXISTS crudejemplo;
+CREATE DATABASE crudejemplo;
 
 -- --------------------------------------------------------
 
